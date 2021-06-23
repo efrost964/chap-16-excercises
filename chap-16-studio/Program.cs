@@ -4,11 +4,11 @@ namespace chap_16_studio
 {
     class Program
     {
-        static double Division(double x, double y)
+        static int Division(int x, int y)
         {
             try
             {
-                double answer = x / y;
+                int answer = x / y;
                 return answer;
             }
             catch(DivideByZeroException) 
@@ -21,10 +21,10 @@ namespace chap_16_studio
         {
             Console.WriteLine("welcome to Division!");
             Console.WriteLine("Please input a number:");
-            double num1 = Double.Parse(Console.ReadLine());
+            int num1 = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Please input another number:");
-            double num2 = Double.Parse(Console.ReadLine());
-            double answer = Division(num1, num2);
+            int num2 = Int32.Parse(Console.ReadLine());
+            int answer = Division(num1, num2);
             if (answer > 0)
             {
                 Console.WriteLine(answer);
