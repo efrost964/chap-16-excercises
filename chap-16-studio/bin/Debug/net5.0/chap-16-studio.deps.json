@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "chap-16-studio/1.0.0": {
+        "runtime": {
+          "chap-16-studio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chap-16-studio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

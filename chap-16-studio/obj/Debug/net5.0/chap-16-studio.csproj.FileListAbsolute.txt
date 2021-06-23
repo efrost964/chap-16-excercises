@@ -1,0 +1,16 @@
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\bin\Debug\net5.0\chap-16-studio.exe
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\bin\Debug\net5.0\chap-16-studio.deps.json
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\bin\Debug\net5.0\chap-16-studio.runtimeconfig.json
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\bin\Debug\net5.0\chap-16-studio.runtimeconfig.dev.json
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\bin\Debug\net5.0\chap-16-studio.dll
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\bin\Debug\net5.0\ref\chap-16-studio.dll
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\bin\Debug\net5.0\chap-16-studio.pdb
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\obj\Debug\net5.0\chap-16-studio.csprojAssemblyReference.cache
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\obj\Debug\net5.0\chap-16-studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\obj\Debug\net5.0\chap-16-studio.AssemblyInfoInputs.cache
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\obj\Debug\net5.0\chap-16-studio.AssemblyInfo.cs
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\obj\Debug\net5.0\chap-16-studio.csproj.CoreCompileInputs.cache
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\obj\Debug\net5.0\chap-16-studio.dll
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\obj\Debug\net5.0\ref\chap-16-studio.dll
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\obj\Debug\net5.0\chap-16-studio.pdb
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\chap-16-studio\obj\Debug\net5.0\chap-16-studio.genruntimeconfig.cache
