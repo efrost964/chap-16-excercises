@@ -13,3 +13,4 @@ C:\Users\lumpysacks\Desktop\coding\chap-16-studio\Chap-16-studio-part2\Chap-16-s
 C:\Users\lumpysacks\Desktop\coding\chap-16-studio\Chap-16-studio-part2\Chap-16-studio-part2\obj\Debug\net5.0\ref\Chap-16-studio-part2.dll
 C:\Users\lumpysacks\Desktop\coding\chap-16-studio\Chap-16-studio-part2\Chap-16-studio-part2\obj\Debug\net5.0\Chap-16-studio-part2.pdb
 C:\Users\lumpysacks\Desktop\coding\chap-16-studio\Chap-16-studio-part2\Chap-16-studio-part2\obj\Debug\net5.0\Chap-16-studio-part2.genruntimeconfig.cache
+C:\Users\lumpysacks\Desktop\coding\chap-16-studio\Chap-16-studio-part2\Chap-16-studio-part2\obj\Debug\net5.0\Chap-16-studio-part2.csprojAssemblyReference.cache
