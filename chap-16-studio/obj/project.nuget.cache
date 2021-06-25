@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7ecSDO5AAyqq8vBhS2kN4s1W8yqhh3ZNHB2YPrU6JR3btq1fUSnoJAYCPGHPc6sJJrOia6iN0mWZr65h0FeRyA==",
+  "dgSpecHash": "F2p7vL55No9Im/wasWsB20frzm4ctQ2Z45MNIw6AVes+2m8rn1UUzKaIvSwcGnndNoLUv4FQJb5gnHcFK6WiLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lumpysacks\\Desktop\\coding\\chap-16-studio\\chap-16-studio\\chap-16-studio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lumpysacks\\Desktop\\coding\\launchCode\\chap-16-studio\\chap-16-studio\\chap-16-studio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lumpysacks\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lumpysacks\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lumpysacks\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
